@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+lets talk about anice computer from germany
 You can use the [editor on GitHub](https://github.com/chardso/computer-from-germany-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -23,12 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![images](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Theme 
+### Jekyll Theme ,tttt
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chardso/computer-from-germany-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
